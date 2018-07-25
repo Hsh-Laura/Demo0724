@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.hs.www.demol1" >
+
+        <application  android:theme="@style/AppTheme">
+                <activity
+                    android:name=".GirlsActivity"
+                    android:screenOrientation="portrait" />
+        </application>
+
+</manifest>
